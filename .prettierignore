@@ -1,5 +1,6 @@
 dist
 .astro
+
 # fetched at prebuild/predev by bin/fetch-skills.ts
 .tmp
 # generated actions JS
